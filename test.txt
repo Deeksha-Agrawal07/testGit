@@ -1,4 +1,11 @@
 First Text  document in the first repository i.e. testGit.
 Changed this file.
 Change for new branch only.
+<<<<<<< HEAD
 new change...
+=======
+Made changes to clone.
+I have made changes to check add now.
+One more
+
+>>>>>>> ba8541db0a3f6a5099f496134ff1e819915501f2
